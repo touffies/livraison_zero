@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <descriptif lang="fr">
+    <titre>Aucun frais de livraison</titre>
+    <chapo></chapo>
+    <description>Ce plugin ajoute la possibilité d'annuler les frais de livraison.</description>
+    <postscriptum></postscriptum>
+  </descriptif>
+  <version>1.0</version>
+  <auteur>
+    <nom>Christophe Laffont - claffont@openstudio.fr</nom>
+    <societe>OpenStudio</societe>
+    <email>claffont@openstudio.fr</email>
+    <web>http://www.openstudio.fr</web>
+  </auteur>
+  <type>transport</type>
+  <prerequis/>
+  <thelia>1.5.0</thelia>
+  <etat>production</etat>
+  <documentation>README.txt</documentation>
+  <urlmiseajour></urlmiseajour>
+</plugin>
