@@ -26,6 +26,9 @@
 
 // Classes de Thelia
 include_once __DIR__ . "/../../../classes/PluginsTransports.class.php";
+include_once __DIR__ . "/../../../classes/Modules.class.php";
+include_once __DIR__ . "/../../../classes/Zone.class.php";
+include_once __DIR__ . "/../../../classes/Transzone.class.php";
 
 
 /**
