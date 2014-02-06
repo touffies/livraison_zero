@@ -11,7 +11,7 @@ Auteur :
 
    - Christophe LAFFONT - Openstudio / www.openstudio.fr
 
-s
+
 INSTALLATION
 ------------
 
