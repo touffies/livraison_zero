@@ -17,6 +17,6 @@
   <prerequis/>
   <thelia>1.5.0</thelia>
   <etat>production</etat>
-  <documentation>README.txt</documentation>
+  <documentation>Readme.md</documentation>
   <urlmiseajour></urlmiseajour>
 </plugin>
