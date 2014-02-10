@@ -26,8 +26,8 @@ Pour installer ce plugin, il vous faut :
 CHANGELOG
 ---------
 
-**1.0.1** (10/02/2014) - Ajout du fichier Readme.md (Markdown)
-**1.0.0** (06/02/2014) - Première version du plugin
+- **1.0.1** (10/02/2014) - Ajout du fichier Readme.md (Markdown)
+- **1.0.0** (06/02/2014) - Première version du plugin
 
 [1]: https://github.com/touffies/vodinfomaniak
 [2]: https://github.com/touffies/prepayment
