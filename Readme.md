@@ -21,6 +21,7 @@ Pour installer ce plugin, il vous faut :
  2. Activer ce plugin dans le menu `Configuration -> Activation des plugins`.
  3. Se rendre dans `Configuration -> Gestion des types de transport > Aucun frais de livraison`, afin de gérer l'association au zone de transport.
 
+
 ----------
 
 CHANGELOG
