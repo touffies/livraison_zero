@@ -6,7 +6,7 @@
     <description>Ce plugin ajoute la possibilité d'annuler les frais de livraison.</description>
     <postscriptum></postscriptum>
   </descriptif>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <auteur>
     <nom>Christophe Laffont - claffont@openstudio.fr</nom>
     <societe>OpenStudio</societe>
